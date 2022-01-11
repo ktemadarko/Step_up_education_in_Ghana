@@ -1,0 +1,65 @@
+ADM1_EN,Currently_Attending_School,Never_Attended_School,Dropped_out_of_School,Sum_of_Respondents_(3_years_and_above),Gender,Locality
+Western,"205,731","42,868","245,335","493,934",Male,Urban
+Central,"338,218","66,016","341,748","745,982",Male,Urban
+Greater Accra,"858,620","132,635","1,311,926","2,303,181",Male,Urban
+Volta,"138,896","27,837","140,943","307,676",Male,Urban
+Eastern,"301,780","44,836","328,389","675,005",Male,Urban
+Ashanti,"693,806","104,335","718,233","1,516,374",Male,Urban
+Western North,"52,257","14,469","54,201","120,927",Male,Urban
+Ahafo,"55,258","12,128","57,546","124,932",Male,Urban
+Bono,"147,317","31,055","140,686","319,058",Male,Urban
+Bono East,"124,228","49,761","110,541","284,530",Male,Urban
+Oti,"47,488","26,240","37,321","111,049",Male,Urban
+Northern,"226,528","120,506","143,005","490,039",Male,Urban
+Savannah,"37,058","26,762","23,786","87,606",Male,Urban
+North East,"42,766","30,195","21,325","94,286",Male,Urban
+Upper East,"66,994","28,079","51,411","146,484",Male,Urban
+Upper West,"52,243","16,193","37,834","106,270",Male,Urban
+Western,"200,847","74,219","227,436","502,502",Female,Urban
+Central,"328,116","121,123","351,616","800,855",Female,Urban
+Greater Accra,"863,151","259,846","1,280,872","2,403,869",Female,Urban
+Volta,"139,154","60,434","148,088","347,676",Female,Urban
+Eastern,"301,555","91,236","345,993","738,784",Female,Urban
+Ashanti,"676,805","209,411","731,717","1,617,933",Female,Urban
+Western North,"50,574","24,879","48,848","124,301",Female,Urban
+Ahafo,"55,368","21,290","54,507","131,165",Female,Urban
+Bono,"141,106","58,408","143,282","342,796",Female,Urban
+Bono East,"119,424","77,135","103,148","299,707",Female,Urban
+Oti,"43,959","38,085","31,927","113,971",Female,Urban
+Northern,"207,950","196,598","102,213","506,761",Female,Urban
+Savannah,"34,820","36,120","18,660","89,600",Female,Urban
+North East,"40,570","43,513","17,066","101,149",Female,Urban
+Upper East,"66,586","46,918","45,342","158,846",Female,Urban
+Upper West,"51,730","28,302","33,982","114,014",Female,Urban
+Western,"182,976","96,293","201,474","480,743",Male,Rural
+Central,"243,232","68,538","233,458","545,228",Male,Rural
+Greater Accra,"85,391","27,500","96,917","209,808",Male,Rural
+Volta,"181,952","58,758","187,378","428,088",Male,Rural
+Eastern,"266,568","95,149","302,421","664,138",Male,Rural
+Ashanti,"407,397","145,712","416,422","969,531",Male,Rural
+Western North,"118,484","70,722","110,003","299,209",Male,Rural
+Ahafo,"58,667","27,791","53,048","139,506",Male,Rural
+Bono,"96,298","49,417","88,752","234,467",Male,Rural
+Bono East,"97,602","93,626","77,638","268,866",Male,Rural
+Oti,"86,305","76,461","71,911","234,677",Male,Rural
+Northern,"171,241","301,102","64,236","536,579",Male,Rural
+Savannah,"50,346","134,188","25,910","210,444",Male,Rural
+North East,"68,739","98,990","27,380","195,109",Male,Rural
+Upper East,"179,397","157,064","98,899","435,360",Male,Rural
+Upper West,"114,736","124,088","59,442","298,266",Male,Rural
+Western,"166,575","122,642","153,615","442,832",Female,Rural
+Central,"225,948","127,310","218,316","571,574",Female,Rural
+Greater Accra,"80,728","42,780","87,718","211,226",Female,Rural
+Volta,"166,723","114,242","186,843","467,808",Female,Rural
+Eastern,"240,249","143,420","272,089","655,758",Female,Rural
+Ashanti,"371,806","210,723","372,311","954,840",Female,Rural
+Western North,"103,999","86,640","82,915","273,554",Female,Rural
+Ahafo,"50,980","34,751","42,168","127,899",Female,Rural
+Bono,"85,967","67,466","74,388","227,821",Female,Rural
+Bono East,"85,754","105,956","59,936","251,646",Female,Rural
+Oti,"73,629","93,609","57,705","224,943",Female,Rural
+Northern,"139,723","371,687","38,261","549,671",Female,Rural
+Savannah,"43,802","143,375","18,450","205,627",Female,Rural
+North East,"59,210","124,375","19,692","203,277",Female,Rural
+Upper East,"165,705","217,701","79,601","463,007",Female,Rural
+Upper West,"105,958","158,764","47,278","312,000",Female,Rural
