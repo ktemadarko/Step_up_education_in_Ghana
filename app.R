@@ -1,24 +1,29 @@
 #---------------------------------------------------------------------------------------------------------------------
-# Title: Step up education in Ghana, understanding the distribution of education facilities in Ghana.
+# Title: Step up education in Ghana 
+# Subtitle: Understanding the distribution of education facilities in Ghana.
+#
 # Created By: Ama Korantema Owusu-Darko
 # Last Edited: 6th-June-2025 
 #---------------------------------------------------------------------------------------------------------------------
+
+#---------------------------------------------------------------------------------------------------------------------
 # Description: 
 #---------------------------------------------------------------------------------------------------------------------
-#	This R code generates a Shiny dashboard with two tabs.
+# This R code generates a Shiny dashboard with two tabs.
 # The first tab Educational facilities create maps that display the different types of education facilities in Ghana.
 #	
 # The second tab displays a bar graph that shows the Percentage of a select school indicator eg. (School dropout) by 
 # Gender and by Region in Ghana.
+#---------------------------------------------------------------------------------------------------------------------
 	
 # Sections:
-#	- Step 1. Change working directory Downloads folder
-#	- Step 2. Load input dta file 
-#	- Step 3: Create a demographic table using the distribution of trainees by age and gender
+#	- Load R packages
+#	- Loading Geospatial data
+#	- Data Wrangling
 	
-#	- Step 4: Create a bar graph of the age_categorical variable
-#	- Step 5: Create a bar graph of covid_anxious_cvd variable
-#	- Step 6. Create a two-by-two contingency table of 
+#	- Create the UI for the shiny app
+#	- Create the Server for the shiny app
+#	- Run the shiny app
 
 # Input data location: ./Owusu-Darko_Ama/01_raw_data
 
@@ -207,5 +212,7 @@ server <- function(input, output) {
   )
 }
 
-# Run the application
+#----------------------------------------------------------------------------------------------------------------------------------
+# Run the shiny app
+#----------------------------------------------------------------------------------------------------------------------------------
 shinyApp(ui = ui, server = server)
