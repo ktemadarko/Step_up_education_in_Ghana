@@ -3,7 +3,7 @@
 # Subtitle: Understanding the distribution of education facilities in Ghana.
 #
 # Created By: Ama Korantema Owusu-Darko
-# Last Edited: 6th-June-2025 
+# Last Edited: 6th June, 2025 
 #---------------------------------------------------------------------------------------------------------------------
 
 #---------------------------------------------------------------------------------------------------------------------
@@ -25,9 +25,12 @@
 #	- Create the Server for the shiny app
 #	- Run the shiny app
 
-# Input data location: ./Owusu-Darko_Ama/01_raw_data
+# Input data location: ./Step_up_education_in_Ghana/data
 
-# Input data files: - covid_mental_health.dta
+# Input data files: 
+#                    * data/gha_admin_shp/gha_admbnda_adm2_gss_20210308.shp
+#                    * data/hotosm_gha_edu_facilities_points_shp/hotosm_gha_education_facilities_points.shp
+#                    * data/GHA_2021_Census_Pop_3yrs_school_attendance.csv
 #---------------------------------------------------------------------------------------------------------------------
 
 
@@ -50,7 +53,7 @@ library(DT)
 gh_adm2<-read_sf("data/gha_admin_shp/gha_admbnda_adm2_gss_20210308.shp")
 
 
-# load point data on the location of education facilities in Ghana located in the data folder of this repository
+# Load point data on the location of education facilities in Ghana located in the data folder of this repository
 edu_facilities<-read_sf("data/hotosm_gha_edu_facilities_points_shp/hotosm_gha_education_facilities_points.shp")
 
 
